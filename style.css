@@ -1,0 +1,723 @@
+.header
+{
+        width: 100%;
+    height:100px;
+}
+body{
+    margin: 0;
+}
+.left
+{
+    width:50%;
+    height: 100px;
+    float: left;
+}
+.logo
+{
+    width: 28%;
+    height:100px;
+    float: left;
+}
+.para
+{
+    width:23%;
+    height: 100px;
+    float: left;
+}
+.image
+{
+    padding-left: 133px;
+    padding-top: 44px;
+    cursor: pointer;
+}
+.para1
+{
+    width: 38px;
+    height: 100px;
+    float: left;
+    margin-left:43px ;
+}
+.para2
+{
+    width: 38px;
+    height: 100px;
+    float: left;
+    margin-left: 45px;
+    
+}
+.pa1{
+    cursor: pointer;
+    padding-top: 32px;
+    font-weight: 557;
+    font-family: "system-ui";
+    font-size: smaller;
+}
+.right
+{
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+.pic
+{
+    width: 49px;
+    height: 100px;
+    float: right;
+    margin-right: 147px;
+}
+.im1
+{
+    padding-top: 28px;
+    cursor: pointer;
+}
+.ru
+{
+    width:50px;
+    height: 100px;
+    float:right;
+}
+.pa2{
+    margin-top: 43px;
+    margin-left: 31px;
+    cursor: pointer;
+}
+.signin
+{
+    width: 50px;
+    height: 100px;
+    float:right;
+    margin-right: 3px;
+}
+.pa3
+{
+    margin-top: 41px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.klog
+{
+    width:30px;
+    height: 100px;
+    float: right;
+}
+.im2
+{
+    margin-top: 41px;
+    cursor: pointer;
+}
+.header2
+{
+    width:100%;
+    height: 68px;
+    background-color:#202124;
+}
+.subhead
+{
+    color: #fff;
+    margin-left: 507px;
+    margin-top: 0;
+    padding-top: 23px;
+    font-family: system-ui;
+    letter-spacing: -1px;
+    font-size: 15px;
+    float: left;
+    font-weight: 900
+}
+.start
+{
+float: left;
+float: left;
+    padding: 8px 40px;
+    border-radius: 200px;
+    height: 44px;
+    text-align: center;
+    align-items: center;
+    flex-direction: row;
+    font-family: "National 2 Regular";
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    cursor: pointer;
+    margin-left: 18px;
+    margin-top: 11px;
+    background-color: #e4002b;
+    border-color: #e4002b;
+}
+.s1
+{
+    margin: 0; 
+    font-family: sans-serif;
+    color: #fff;
+}
+.start:hover
+{
+    cursor: pointer;
+    background: linear-gradient(0deg,hsla(0,0%,100%,.1),hsla(0,0%,100%,.1)),#e4002b;
+}
+.header3{
+    width: 100%;
+    height:138px;
+    background-color: #f8f7f5;;
+
+}
+.welcome
+{
+    padding-left: 195px;
+    font-family: fantasy;
+    font-size: 38px;
+    padding-top: 55px;
+    margin: 0;
+}
+.strips1
+{
+    width: 8px;
+    height:22px;
+    background-color: #e4002b;
+    float: left;
+    margin-left: 197px;
+}
+.strips2
+{
+    width: 8px;
+    height:22px;
+    background-color: #e4002b;
+    float: left;
+    margin-left: 8px;
+}
+.strips3
+{
+    width: 8px;
+    height:22px;
+    background-color:#e4002b;
+    float: left;
+    margin-left: 8px;
+}
+.content
+{
+    width: 100%;
+    height: 1885px;
+    float: left;
+}
+.browse
+{
+    width: 300px;
+    height: 75px;
+    margin-left: 282px;
+    margin-top: 112px;
+}
+.pa4
+{
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 43px;
+    letter-spacing: -3px;
+    text-transform: uppercase;
+    color: #202124;
+    padding-left: 4px;
+    padding-top: 12px;
+    padding-left: 4px;
+    margin-top: 83px;
+    margin-left: 270px;
+}
+
+
+.line
+{
+    margin-top: 117px;
+    width: 761px;
+    margin-left: 25px;
+   background-color: #100f0f;
+    
+}
+.content1
+{
+ width:39%;
+ height: 150px;
+ float: left;
+}
+.content2
+{
+    width:61%;
+ height: 150px;
+ float: left;
+}
+.contentb
+{
+    width: 100%;
+    height: 680px;
+    float: left;
+}
+.content3
+{
+    width: 19%;
+    height: 680px;
+    float: left;
+}
+.p1{
+    float: left;
+    width: 265px;
+    height: 240px;
+    cursor: pointer;
+    background-color: #f8f7f5;
+}
+.adj
+{
+    width: 265px;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+}
+.adj1
+{
+    margin-top: 31px;
+    width: 265px;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+}
+.paraall
+{
+    color: #100f0f;
+    margin-left: 53px;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.paraall1
+{
+    margin-left: 77px;
+    color: #100f0f;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.paraall2
+{
+    margin-left: 60px;
+    color: #100f0f;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.paraall3
+{
+    margin-left: 80px;
+    color: #100f0f;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.paraall4
+{
+    margin-left: 91px;
+    color: #100f0f;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.paraall5
+{
+    margin-left: 44px;
+    color: #100f0f;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.paraall6
+{
+    margin-left: 100px;
+    color: #100f0f;
+    margin-top: 28px;
+    font-family: sans-serif;
+    font-weight: 600;
+
+}
+.p2
+{
+    float: left;
+  background-color: #f8f7f5;;
+    width: 265px;
+    height: 240px;
+    margin-left: 23px;
+    cursor: pointer;
+
+}
+.p3{
+    float: left;
+    background-color: #f8f7f5;
+    width: 265px;
+    height: 240px;
+    cursor: pointer;
+    margin-top: 38px;
+}
+.p4{
+    float: left;
+    background-color: #f8f7f5;
+    width: 265px;
+    height: 240px;
+    margin-left: 23px;
+    cursor: pointer;
+    margin-top: 38px;
+}
+.p5
+{
+    float: left;
+    width: 265px;
+    height: 240px;
+    margin-left: 23px;
+    cursor: pointer;
+    margin-top: 38px;
+    background-color: #f8f7f5;
+}
+.contentc
+{
+    width: 100%;
+    height:171px;
+    background-color: #212529;
+float: left;
+}
+.strips4
+{
+    
+    width: 18px;
+    height: 43px;
+    background-color: #e4002b;
+    float: left;
+    margin-left: 240px;
+}
+.strips5
+{
+    width: 18px;
+    height: 43px;
+    background-color: #e4002b;
+    float: left;
+    margin-left: 12px; 
+}
+.r1{
+width: 100%;
+height: 170px;
+float: left;
+}
+.offer
+{
+    margin-left: 4px;
+    font-family: sans-serif;
+    font-size: 33px;
+    font-weight: 700;
+    letter-spacing: -3px;
+    color: #fff;
+    margin-top: 10px;
+}
+.part1
+{
+    width: 300px;
+    height: 55px;
+    margin-top: 113px;
+    margin-left: -70px;
+    float: left;
+   
+}
+.part2
+{
+    width: 200px;
+    height: 60px;
+    float: left;
+    margin-left: 580px;
+    margin-top: 108px;
+}
+.deal1
+{
+    margin-top: 32px;
+    margin-left: 41px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #fff;
+}
+.contentd{
+    width: 100%;
+    height:565px;
+    background-color:#212529 ;
+    float: left;
+}
+.side
+{
+  width: 250px;
+  height: 565px;
+  float: left;
+}
+.image1
+{
+    width: 300px;
+    height: 385px;
+    background-color: #f8f7f5;
+    float: left;
+    margin-top: 66px;
+    border-radius: 6px;
+}
+.size
+{
+    width: 300px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.align
+{
+    padding-left: 22px;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.mod
+{
+    margin: 0;
+    padding-top: 3px;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-left: 4px;
+}
+.sub
+{
+    width: 300px;
+    height: 69px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.sub1
+{
+    width: 150px;
+    height: 39px;
+    float: left;
+    margin-top: 30px;
+}
+.sub2
+{
+    width: 150px;
+    height: 69px;
+    float: left;
+}
+.view
+{
+    color: #494949;
+    cursor: pointer;
+}
+.but
+{
+    width: 127px;
+    height: 40px;
+    margin-left: 9px;
+    margin-top: 21px;
+    border-radius: 22px;
+    border-color:#f8f7f5 ;
+    cursor: pointer;
+    font-weight: 600;
+}
+.but:hover
+{
+    background-color: #100f0f;
+}
+button{
+    border: none;
+}
+.image2
+{
+    margin-left: 53px;
+    width: 300px;
+    height: 385px;
+    background-color: #f8f7f5;
+    float: left;
+    margin-top: 66px;
+    border-radius: 6px;
+}
+.align1
+{
+    padding-left: 46px;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.align3
+{
+    padding-left: 16px;
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.side1
+{
+  width: 224px;
+  height: 565px;
+  float: left;
+}
+.but1
+{
+    height: 49px;
+    width: 50px;
+    border-radius: 25px;
+    margin-top: 240px;
+    margin-left: 119px;
+    font-size: 27px;
+    background-color: #FFFFFF7F;
+    cursor: pointer;
+}
+.but1:hover
+{
+    background-color: #fff;
+}
+.but2
+{
+    height: 49px;
+    width: 50px;
+    border-radius: 25px;
+    margin-top: 219px;
+    margin-left: 63px;
+    font-size: 27px;
+    background-color: #FFFFFF7F;
+    cursor: pointer;
+}
+.but2:hover
+{
+    background-color: #fff;
+}
+.contente
+{
+    width: 100%;
+    height: 320px;
+    float: left;
+    background-color: #212529; 
+}
+.par1{
+height: 320px;
+width: 250px;
+float: left;
+}
+.b1
+{
+    width: 83px;
+    margin-left: 30px;
+    margin-top: 6px;
+}
+.b1:hover
+{
+    background-color: #6c757d;
+}
+.i1{
+    margin-left: 187px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+.par2{
+    width: 520px;
+    height: 165px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.coloumn1
+{
+    height: 165px;
+    width: 130px;
+    float: left;
+
+}
+.coloumn2
+{
+    height: 165px;
+    width: 130px;
+    float: left;
+      
+}
+.coloumn3
+{
+    height: 165px;
+    width: 130px;
+    float: left;
+      
+}
+.coloumn4
+{
+    height: 165px;
+    width: 130px;
+    float: left;
+      
+}
+.align4
+{
+    margin-left: -33px;
+    color: #fff;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+ul{
+    list-style: none;
+}
+.height
+{
+    height: 25px;
+    cursor: pointer;
+}
+.coloumn5
+{
+    height: 165px;
+    width: 130px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+    .adj3
+    {
+        margin-left: 2px;
+        margin-top: 13px;
+        cursor: pointer;
+    }
+.u1
+{
+    color: #fff;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.coloumn6
+{
+    height: 165px;
+    width: 285px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.align5
+{
+    float: left;
+    cursor: pointer;
+}
+.align6
+{
+    float: left;
+    margin-left: 18px;
+    cursor: pointer;
+}
+.copyright
+{
+    width: 380px;
+    height: 46px;
+    float: left;
+    margin-top: 51px;
+    margin-left: 403px;
+    color: #fff;
+}
+copy1
+{
+    margin-left: 7px;
+}
+.end{
+    width: 290px;
+    height: 80px;
+    float: left;
+    margin-left: 140px;
+    margin-top: 23px;
+    cursor: pointer;
+}
+.end1
+{
+    margin-left: 185px;
+    margin-top: 45px;
+    cursor: pointer;
+}
